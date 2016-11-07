@@ -13,3 +13,6 @@ Prime Factorization with ROS for inputs and outputs<br>
 Controlling a robot part 1<br>
 [assingment on google drive](https://docs.google.com/document/d/1BkxOxVycaffiXl600aklX5v6nCRpV9f_A8-woyICl0M/edit?usp=sharing)
 
+### Wall Follower (HW 4) (due 11/17)
+Simple wall follower simulation (with two inputs, from jamie)
+[assignment github repository](https://github.com/Olin-FunRobo/funrobo_wallfollower)
